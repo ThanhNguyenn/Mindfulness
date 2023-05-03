@@ -6,20 +6,22 @@ import './App.css';
 import particlesOptions from "./particles.json";
 import QuoteGenerating from './QuoteGenerating';
 import Music from './Music';
+import { Routes, Route} from "react-router-dom";
 function App() {
     const particlesInit = useCallback(async main => {
         await loadFull(main);
     }, [])
-
     return (
         <div className="App">
-            <Particles options={particlesOptions} init={particlesInit}/>
+<Particles options={particlesOptions} init={particlesInit}/>
             <header className="App-header">
                 <QuoteGenerating />
                 <Music />
-               </header>
+           </header>
         </div>
     );
 }
+
+
 
 export default App;
