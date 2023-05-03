@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mindfulness/static/css/main.653c9023.css",
+    "main.js": "/mindfulness/static/js/main.7f058231.js",
+    "static/media/logo.svg": "/mindfulness/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/mindfulness/index.html",
+    "main.653c9023.css.map": "/mindfulness/static/css/main.653c9023.css.map",
+    "main.7f058231.js.map": "/mindfulness/static/js/main.7f058231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653c9023.css",
+    "static/js/main.7f058231.js"
+  ]
+}
