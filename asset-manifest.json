@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mindfulness/static/css/main.653c9023.css",
-    "main.js": "/mindfulness/static/js/main.3e4a8f01.js",
-    "static/media/logo.svg": "/mindfulness/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/mindfulness/index.html",
-    "main.653c9023.css.map": "/mindfulness/static/css/main.653c9023.css.map",
-    "main.3e4a8f01.js.map": "/mindfulness/static/js/main.3e4a8f01.js.map"
+    "main.css": "/Mindfulness/static/css/main.653c9023.css",
+    "main.js": "/Mindfulness/static/js/main.7128073f.js",
+    "static/media/logo.svg": "/Mindfulness/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/Mindfulness/index.html",
+    "main.653c9023.css.map": "/Mindfulness/static/css/main.653c9023.css.map",
+    "main.7128073f.js.map": "/Mindfulness/static/js/main.7128073f.js.map"
   },
   "entrypoints": [
     "static/css/main.653c9023.css",
-    "static/js/main.3e4a8f01.js"
+    "static/js/main.7128073f.js"
   ]
 }
